@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jirachaya "Fern" Limprayoon"
+title                    : "Jirachaya 'Fern' Limprayoon"
 title_separator          : "-"
-name                     : &name "Jirachaya "Fern" Limprayoon"
+name                     : &name "Jirachaya 'Fern' Limprayoon"
 description              : &description "personal description"
 url                      : https://jfernleaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

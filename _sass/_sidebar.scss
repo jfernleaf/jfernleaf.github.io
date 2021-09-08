@@ -123,7 +123,7 @@
 
 .author__bio {
   margin: 0;
-  white-space: pre-line;
+  white-space: pre-wrap;
 
   @include breakpoint($large) {
     margin-top: 10px;

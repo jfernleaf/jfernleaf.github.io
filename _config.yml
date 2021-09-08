@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Jirachaya \"Fern\" Limprayoon"
   avatar           : "profile.jpeg"
-  bio              : |-
-                      4th year undergrad
-                      at Carnegie Mellon University
-                      Major: Artificial Intelligence
-                      Minor: Human-Computer Interaction
+  bio              : "4th year undergrad\n
+                      at Carnegie Mellon University\n
+                      Major: Artificial Intelligence\n
+                      Minor: Human-Computer Interaction"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           :

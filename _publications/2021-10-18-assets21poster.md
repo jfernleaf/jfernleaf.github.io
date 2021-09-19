@@ -1,8 +1,7 @@
 ---
-title: "Robot Trajectories When Approaching a User with a Visual Impairment"
+title: "[In Press!] Robot Trajectories When Approaching a User with a Visual Impairment"
 collection: publications
-permalink: /publication/2021-10-18-assets21poser
-excerpt: [In Press!]
+permalink: /publication/2021-10-18-assets21poster
 date: 2021-10-18
 venue: "ASSETS"
 paperurl: 'https://doi.org/10.1145/3441852.3476538'

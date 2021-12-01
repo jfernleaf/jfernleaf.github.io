@@ -1,13 +1,13 @@
 ---
-layout: archive
+layout: forward
+target: https://raw.githubusercontent.com/jfernleaf/jfernleaf.github.io/master/files/fern_cv.pdf
+<!-- layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume -->
 ---
-layout: forward
-target: https://raw.githubusercontent.com/jfernleaf/jfernleaf.github.io/master/files/fern_cv.pdf
 
 
 <!-- {% include base_path %} -->

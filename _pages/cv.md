@@ -1,15 +1,13 @@
 ---
-layout: forward
-target: https://raw.githubusercontent.com/jfernleaf/jfernleaf.github.io/master/files/fern_cv.pdf
-<!-- layout: archive
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume -->
+  - /resume
 ---
 
-
+[View my CV here!](https://raw.githubusercontent.com/jfernleaf/jfernleaf.github.io/master/files/fern_cv.pdf)
 <!-- {% include base_path %} -->
 
 <!--

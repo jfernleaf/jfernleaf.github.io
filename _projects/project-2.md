@@ -5,5 +5,6 @@ collection: projects
 ---
 
 With a team of four, built a smartphone-controlled robot with a mechanism to capture a table tennis ball by using two wheels spinning towards each other to compete in a Quidditch (a fictional sport from Harry Potter) tournament.
-![Image of Janky the Robot](./files/IMG_7393.jpg)
-![Another Image of Janky the Robot](./files/IMG_7394.jpg)
+
+<img src='./files/IMG_7393.jpg'>
+<img src='./files/IMG_7394.jpg'>

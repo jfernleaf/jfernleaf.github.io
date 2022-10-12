@@ -1,6 +1,6 @@
 ---
 title: "Red Robot Hackathon (2018)"
-excerpt: "Won GM Motors Best Driving Award!<br/><img src='images/IMG_7394.jpg'>"
+excerpt: "Won GM Motors Best Driving Award!<br/><img src='../images/IMG_7394.jpg'>"
 collection: projects
 ---
 

@@ -82,15 +82,14 @@ analytics:
 author:
   name             : "Jirachaya \"Fern\" Limprayoon"
   avatar           : "profile.jpeg"
-  bio              : "4th year undergrad\n
-                      at Carnegie Mellon University\n
-                      Major: Artificial Intelligence\n
-                      Minor: Human-Computer Interaction"
-  location         : "Pittsburgh, PA"
+  bio              : "1st year CS PhD\n
+                      at Yale University\n
+                   
+  location         : "New Haven, CT"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-mKZ6wcAAAAJ"
-  email            : "jlimpray@andrew.cmu.edu"
+  email            : "fern.limprayoon@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

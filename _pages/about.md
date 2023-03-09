@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergrad student at Carnegie Mellon University, majoring in Artificial Intelligence (AI) and minoring in human-computer interaction (HCI). I am most interested in the research and development of accessibility tools to help support people with disabilities in their daily lives. I am a part of [Transportation, Bots, and Disability (TBD) Lab](https://tbd.ri.cmu.edu/). I am also a member of the School of Computer Science Dean's Undergraduate Advisory Committee, as well as a Founder and Chair of the Accommodations for Blind and Deaf Students Subcommittee.
+Hi, I’m Fern! I’m a 1st year PhD student in the Computer Science Department at Yale University. I’m a member of the [Social Robotics Lab](https://scazlab.yale.edu/), supervised by Brian Scassellati. My research focuses on using robots to understand and promote prosocial dynamics. I am currently working on a project about how/why humans interpret particular antisocial behavior exhibited by robots as prosocial in a specific context similar to how people show sympathy towards the villains from movies in some specific cases. I am excited about creating and using technology that helps people to improve their daily lives.
+
+I completed my B.S. in artificial intelligence (AI) with a concentration in human-computer interaction (HCI) at Carnegie Mellon University in 2022, where I was academically advised by Reid Simmons. At Carnegie Mellon, I was a member of the [Transportation, Bots, and Disability (TBD) Lab](https://tbd.ri.cmu.edu/), supervised by Aaron Steinfeld. Additionally, I was a member of the School of Computer Science Dean’s Undergraduate Advisory Committee, as well as a founder and chair of the Accommodations for Blind and Deaf Students Subcommittee.
+
+I am passionate about advocating for better accessibility of daily activities for people with disabilities. I am currently a part of the Disability Pride PA Committee, which organizes events across Pennsylvania :-) 
+

@@ -12,5 +12,5 @@ Hi, I’m Fern! I’m a 1st year PhD student in the Computer Science Department 
 
 I completed my B.S. in artificial intelligence (AI) with a concentration in human-computer interaction (HCI) at Carnegie Mellon University in 2022, where I was academically advised by Reid Simmons. At Carnegie Mellon, I was a member of the [Transportation, Bots, and Disability (TBD) Lab](https://tbd.ri.cmu.edu/), supervised by Aaron Steinfeld. Additionally, I was a member of the School of Computer Science Dean’s Undergraduate Advisory Committee, as well as a founder and chair of the Accommodations for Blind and Deaf Students Subcommittee.
 
-I am passionate about advocating for better accessibility of daily activities for people with disabilities. I am currently a part of the Disability Pride PA Committee, which organizes events across Pennsylvania :-) 
+I am passionate about advocating for better accessibility of daily activities for people with disabilities. I am currently a part of the [Disability Pride PA Committee](https://www.disabilitypridepa.org/), which organizes events across Pennsylvania :-) 
 
